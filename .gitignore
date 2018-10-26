@@ -1,0 +1,51 @@
+Skip to content
+
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @taozi0809
+Sign out
+5,621
+117,412 16,642 vuejs/vue
+ Code  Issues 188  Pull requests 79  Projects 0  Insights
+vue/.gitignore
+d4120a6  on 30 Aug 2017
+@yyx990803 yyx990803 ignore .vscode
+@yyx990803 @blake-newman
+
+20 lines (19 sloc)  385 Bytes
+.DS_Store
+node_modules
+*.log
+explorations
+TODOs.md
+dist/*.gz
+dist/*.map
+dist/vue.common.min.js
+test/e2e/reports
+test/e2e/screenshots
+coverage
+RELEASE_NOTE*.md
+dist/*.js
+packages/vue-server-renderer/basic.js
+packages/vue-server-renderer/build.js
+packages/vue-server-renderer/server-plugin.js
+packages/vue-server-renderer/client-plugin.js
+packages/vue-template-compiler/build.js
+.vscode
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
